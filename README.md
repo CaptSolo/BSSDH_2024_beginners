@@ -14,7 +14,7 @@ Helpful but not required experience:
 
 ### Software requirements in the order of preference
 
-1. Easiest - Any computer with modern browser and ability to connect to Google Colab (requires Google account - Gmail) - No local installation necessary
+1. Easiest - Any computer with a modern browser and ability to connect to Google Colab (requires Google account - Gmail) - No local installation necessary
 2. Locally installed Python Jupyter Notebooks - preferably use the [Anaconda Python installation](https://www.anaconda.com/download)
 
 ### Test software requirements
@@ -22,6 +22,8 @@ Helpful but not required experience:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CaptSolo/BSSDH_2024_beginners/blob/main/notebooks/test_python_setup.ipynb)
 
 If you can run the above Notebook in enviroment of your choice (Google Colab, or locally) with no errors - you are ready for the workshop!
+
+You will also need a free ChatGPT account: https://chatgpt.com/
 
 ## Day 1 - 23.07.2024 - 11:00
 
