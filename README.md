@@ -25,7 +25,7 @@ If you can run the above Notebook in enviroment of your choice (Google Colab, or
 
 You will also need a free ChatGPT account: https://chatgpt.com/
 
-## Day 1 - 23.07.2024 - 11:00
+## Day 1 - 23.07.2024 - 09:30
 
 ### Python Essentials and Text Analysis with NLTK
 
